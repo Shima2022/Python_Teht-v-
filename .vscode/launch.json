@@ -38,7 +38,3 @@ else:
     print("Molemmat negatiivitsa")
 
 
-
-
-
-
